@@ -1,0 +1,6 @@
+rootProject.name = 'untitled3'
+
+includeBuild 'eureka-server'
+includeBuild 'eureka-client'
+includeBuild 'api-gateway'
+includeBuild 'git-config-server'
